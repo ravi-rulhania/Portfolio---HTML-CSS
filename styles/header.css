@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: rgb(171, 171, 255);
+
+  padding: 12px 24px;
+}
+.left-section {
+  font-size: 18px;
+  font-weight: 500;
+}
+.right-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 200px;
+
+  font-size: 12px;
+}
+.header-right-element:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

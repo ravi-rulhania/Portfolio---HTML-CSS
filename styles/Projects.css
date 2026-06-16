@@ -1,0 +1,45 @@
+.projects-div {
+  padding: 20px 24px;
+}
+.project {
+  font-size: 18px;
+  margin-bottom: 14px;
+  font-weight: 800;
+}
+.names {
+  padding-left: 34px;
+  padding-right: 14px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+
+  margin-bottom: 10px;
+
+  background-color: rgb(204, 252, 253);
+  border-radius: 15px;
+}
+.project-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: black;
+  text-decoration: none;
+}
+.project-name:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.description {
+  font-size: 12px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+.tools {
+  display: inline-block;
+
+  font-size: 11px;
+  margin-right: 4px;
+
+  padding: 2px 8px;
+
+  background-color: rgb(134, 213, 185);
+  border-radius: 10px;
+}

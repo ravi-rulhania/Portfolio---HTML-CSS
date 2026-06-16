@@ -1,0 +1,24 @@
+.skil-div {
+  padding: 20px 24px;
+}
+.skill {
+  font-size: 18px;
+  font-weight: 800;
+
+  margin-bottom: 14px;
+
+}
+.skill-list {
+  display: flex;
+  display: row;
+  gap: 8px;
+}
+.skill-list div{
+  font-size: 13px;
+  font-weight: 500;
+
+  padding: 4px 12px;
+
+  background-color: rgb(161, 212, 253);
+  border-radius: 16px;
+}
